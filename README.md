@@ -1,4 +1,4 @@
-# SQLDatabaseSpotify :card_index:
+# SQLDatabaseSpotify :card_index: :notes:
 
 ### MySQL:
 
